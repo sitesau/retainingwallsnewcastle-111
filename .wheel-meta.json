@@ -1,0 +1,22 @@
+{
+  "wheel_id": 902,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-111",
+  "project": "retaining-wall-builders-newcastle-council-and-approvals-dbcbc2d",
+  "parent_t1_ref": "retainingwallsnewcastle-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining wall builders newcastle council and approvals",
+  "intended_url": "http://retaining-wall-builders-newcastle-council-and-approvals-dbcbc2d.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "3172b037643b48dc",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallsnewcastle-155/",
+      "anchor": "Retaining Wall Builders Newcastle Quotes Explained: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
